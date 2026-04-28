@@ -13,7 +13,7 @@
 2. `npx jest --coverage`
 
 ## Звіт про покриття (Code Coverage):
-![Coverage Screenshot](./c:\Users\Nasya\Desktop\{8FFA05B6-4BBC-4121-BCA5-564DE43CFE96}.png)
+![Coverage Screenshot](./coverage.png)
 
 ## AI-генерація:
 Початкова логіка тестів була згенерована за допомогою AI та адаптована під AAA патерн (Arrange-Act-Assert).
